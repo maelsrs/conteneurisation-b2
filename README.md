@@ -1,4 +1,4 @@
-# TP Conteneurisation — Infrastructure résiliente avec sauvegardes
+# TP conteneurisation-b2
 
 ## 1. Architecture
 
