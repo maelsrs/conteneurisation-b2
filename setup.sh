@@ -1,6 +1,4 @@
 #!/bin/bash
-# À lancer UNE FOIS avant le premier "docker compose up".
-# Génère la paire de clés SSH utilisée entre backup-runner et backup-server.
 set -e
 cd "$(dirname "$0")"
 
